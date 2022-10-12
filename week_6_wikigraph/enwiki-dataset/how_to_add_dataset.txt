@@ -1,0 +1,4 @@
+You can try to download it form here: 
+https://moocs.scala-lang.org/~dockermoocs/effective-scala/smallwiki.db
+
+If is not available, go to the course assignment instructions: Wkigraph under the "Download the dataset" section.
